@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **omirzakaminax@gmail.com**
 
-- 📄 Know about my experiences [zakamina.vercel.app](zakamina.vercel.app)
+- 📄 Know about my experiences [amina-two.vercel.app](amina-two.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
